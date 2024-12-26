@@ -84,7 +84,7 @@ Food Delivery — это приложение для онлайн-заказа �
 
 1. Клонируйте репозиторий:
     ```bash
-    git clone https://github.com/yourusername/food-delivery.git
+    git clone https://github.com/MagomedMusadaev/food-delivery
     cd food-delivery
     ```
 
